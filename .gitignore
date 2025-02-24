@@ -1,0 +1,17 @@
+# Ignorar a pasta output e todos os arquivos dentro dela
+output/
+
+# Ignorar arquivos executáveis
+*.exe
+
+# Ignorar arquivos objeto gerados pela compilação
+*.o
+*.obj
+
+# Ignorar depurações e logs
+*.log
+*.dll
+*.pdb
+
+# Ignorar configurações do VS Code
+.vscode/
